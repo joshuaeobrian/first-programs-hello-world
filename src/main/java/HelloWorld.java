@@ -25,5 +25,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         // todo: place your code to print "Hello World" here
+        System.out.println("Hello World");
+
     }
 }
